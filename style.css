@@ -82,6 +82,7 @@ ul li + li {
 @media (min-width: 700px) {
   body {
     padding: 8rem;
+    margin-top: 10rem;
   }
 
   main {
